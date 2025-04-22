@@ -74,10 +74,12 @@ streamlit run app.py
 
 ---
 
-## 📜 License
-MIT License
+## 🤝 Contributing
+
+Feel free to fork, raise issues or submit pull requests!
 
 ---
 
-## 🙌 Credits
-Developed as a personal project for document intelligence and summarization. Contributions are welcome!
+## 📄 License
+
+This project is licensed under the MIT License.
