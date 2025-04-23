@@ -2,6 +2,10 @@
 
 **Doc Fusion** is an automated multi-document summarization tool that processes PDFs and LaTeX files using AI models. It enables efficient information extraction and querying from large text sources. Powered by Google AI Gemini API, Pandoc, and Milvus vector database.
 
+## Preview
+
+![Screenshot](https://github.com/Alwaysomesh/Doc-Fusion-Automated-Summurization-Multidoc-with-PDF-Latex-Format/blob/main/Screenshot%202025-04-23%20142952.png)
+
 ---
 
 ## 🚀 Features
